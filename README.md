@@ -51,6 +51,6 @@ Scan the QR code to access the platform instantly:
 
 ## System Status
 
-Service: Online  
+Service: Down
 Incidents: None  
 
