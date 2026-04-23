@@ -47,11 +47,4 @@ Scan the QR code to access the platform instantly:
 - Backend: PHP  
 - Database: MySQL  
 
----
 
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/ecotracker-hub.git
