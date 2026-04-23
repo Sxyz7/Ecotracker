@@ -1,4 +1,4 @@
-# Ecotracker
+# EcoTracker Hub
 
 <p align="center">
   <img src="logo.png" alt="EcoTracker Logo" width="350"/>
@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ecotrackerhub.eu/">🌐 Visit Website</a>
+  <a href="https://www.ecotrackerhub.eu/">Visit Website</a>
 </p>
 
 ---
 
 ## About the Project
 
-**EcoTracker Hub** is a web platform designed to encourage sustainable habits by allowing users to track eco-friendly actions and visualize their environmental impact.
+EcoTracker Hub is a web platform designed to encourage sustainable habits by allowing users to track eco-friendly actions and visualize their environmental impact.
 
 It transforms small daily actions into a meaningful and motivating digital experience.
 
@@ -25,13 +25,13 @@ It transforms small daily actions into a meaningful and motivating digital exper
 ## Features
 
 - Log eco-friendly activities  
-- Visual “digital forest” growth system  
+- Visual digital forest growth system  
 - Track personal environmental impact  
--  Promote sustainability awareness  
+- Promote sustainability awareness  
 
 ---
 
-##  Quick Access
+## Quick Access
 
 Scan the QR code to access the platform instantly:
 
@@ -43,6 +43,15 @@ Scan the QR code to access the platform instantly:
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP  
-- **Database:** MySQL  
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP  
+- Database: MySQL  
+
+---
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/ecotracker-hub.git
