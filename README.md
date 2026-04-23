@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 **EcoTracker Hub** is a web platform designed to encourage sustainable habits by allowing users to track eco-friendly actions and visualize their environmental impact.
 
@@ -31,17 +31,17 @@ It transforms small daily actions into a meaningful and motivating digital exper
 
 ---
 
-## 📱 Quick Access
+##  Quick Access
 
 Scan the QR code to access the platform instantly:
 
 <p align="center">
-  <img src="qr.png" alt="QR Code" width="200"/>
+  <img src="QRcode.png" alt="QR Code" width="200"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
@@ -49,7 +49,7 @@ Scan the QR code to access the platform instantly:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 
