@@ -45,6 +45,12 @@ Scan the QR code to access the platform instantly:
 
 - Frontend: HTML, CSS, JavaScript  
 - Backend: PHP  
-- Database: MySQL  
+- Database: MySQL
 
+---
+
+## System Status
+
+Service: Online  
+Incidents: None  
 
